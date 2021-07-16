@@ -1,6 +1,6 @@
 # Grey_Scale
 
-Changes a color picture black and white.
+Changes a color picture to black and white picture.
 
 Try it out here: [click me](https://codepen.io/harshasri_7/pen/dyWWWmL)
 
