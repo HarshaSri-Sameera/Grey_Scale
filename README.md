@@ -1,2 +1,13 @@
 # Grey_Scale
-Image to grey scale.
+
+Changes a color picture black and white.
+
+Try it out here: [click me](https://codepen.io/harshasri_7/pen/dyWWWmL)
+
+---------------
+step-1: Upload an image.
+
+step-2: Click on the "Make Image Grey" button.
+
+### Output:
+![alt text](https://github.com/HarshaSri-Sameera/Grey_Scale/blob/main/sample_image.png "sample output")
