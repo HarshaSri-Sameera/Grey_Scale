@@ -1,0 +1,20 @@
+html{
+  margin:10pt;
+  background-color:#c0c0c0;
+}
+h1{
+  font-family: Arial;
+  text-align: center;
+  text-decoration: underline;
+  color: dimgrey;
+}
+canvas{
+  height:200px;
+  margin: 5px;
+  border: 1px solid black;
+  background-color:white;
+}
+input{
+  font-size: 14pt;
+  background-color: #c0c0c0;
+}
