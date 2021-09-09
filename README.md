@@ -2,7 +2,7 @@
 
 Changes a color picture to black and white picture.
 
-Try it out here: [click me](https://codepen.io/harshasri_7/pen/dyWWWmL)
+Try it out here: [click me](https://codepen.io/harshasri_7/full/dyWWWmL)
 
 ---------------
 step-1: Upload an image.
